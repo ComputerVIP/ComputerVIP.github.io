@@ -1,0 +1,20 @@
+{
+  "name": "website-project",
+  "version": "1.0.0",
+  "description": "A simple website project with Google Tag Manager and Google Analytics integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'No start script defined'",
+    "test": "echo 'No test script defined'"
+  },
+  "keywords": [
+    "website",
+    "analytics",
+    "google-tag-manager",
+    "google-analytics"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
